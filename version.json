@@ -3,5 +3,7 @@
   "tag": "v0.5.1",
   "repository": "sargent924/local-ai-workbench-releases",
   "source_repository": "sargent924/local-ai-workbench",
-  "release_url": "https://github.com/sargent924/local-ai-workbench-releases/releases/latest"
+  "release_url": "https://github.com/sargent924/local-ai-workbench-releases/releases/latest",
+  "next_version": "0.5.2",
+  "next_version_status": "planned"
 }
